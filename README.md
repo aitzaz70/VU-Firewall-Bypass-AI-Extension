@@ -39,7 +39,7 @@
    - For Chrome: `chrome://extensions/`  
    - For Edge: `edge://extensions/`  
 3. Enable **Developer Mode**.  
-4. Click **Load Unpacked** and select the folder containing the extracted ZIP file.
+4. Click **Load Unpacked** and select the folder containing the ZIP file.
 
 ### Mobile Installation (Using Kiwi Browser)
 
@@ -49,7 +49,7 @@
 3. Open Kiwi Browser and navigate to the extensions page:  
    - Tap the three dots in the top-right corner and select **Extensions**.
 4. Enable **Developer Mode** if it is turned off in the extensions page.
-5. Tap **+ (from .zip/.crx/.user.js)** and select the folder containing the extracted files.
+5. Tap **+ (from .zip/.crx/.user.js)** and select the folder containing the ZIP file.
 6. The extension will be installed and available for use in Kiwi Browser.
 
 ---
