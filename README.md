@@ -62,6 +62,13 @@
 
 ---
 
+## 🎥 Video Tutorial
+
+For a detailed walkthrough of the installation and usage, watch our video tutorial:  
+[**Watch Video Tutorial**](https://www.youtube.com/watch?v=wixhi6p3W0U)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve this project, feel free to:  
